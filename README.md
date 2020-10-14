@@ -9,3 +9,6 @@
 
 - [Sijin](https://github.com/sijinempire005/)
 - [Praveen.K.S](https://github.com/lightningsarp)
+
+**Open Contributors are accepted**
+
