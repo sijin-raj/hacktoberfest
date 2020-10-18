@@ -1,4 +1,4 @@
-# hacktoberfest
+# hacktofest
 
 - Our first project for hacktofest 
 - We loved to do this project by our self 
