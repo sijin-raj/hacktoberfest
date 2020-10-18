@@ -1,4 +1,4 @@
-# hacktoberfest
+# hacktofest
 
 - Our first project for hacktofest 
 - We loved to do this project by our self 
@@ -7,8 +7,9 @@
 
 ## Contributors :
 
-- [Sijin](https://github.com/sijinempire005/)
+- [Sijin](https://github.com/sijin-raj)
 - [Praveen.K.S](https://github.com/lightningsarp)
+- [Raajesh.G](https://github.com/Raajesh-G)
 
 **Open Contributors are accepted**
 
