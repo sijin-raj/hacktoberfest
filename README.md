@@ -7,7 +7,7 @@
 
 ## Contributors :
 
-- [Sijin](https://github.com/sijinempire005/)
+- [Sijin](https://github.com/sijin-raj)
 - [Praveen.K.S](https://github.com/lightningsarp)
 - [Raajesh.G](https://github.com/Raajesh-G)
 
