@@ -1,5 +1,6 @@
 # hacktofest
-
+event
+- 4 pull requests are needed
 - Our first project for hacktofest 
 - We loved to do this project by our self 
 
@@ -12,4 +13,3 @@
 - [Raajesh.G](https://github.com/Raajesh-G)
 
 **Open Contributors are accepted**
-
