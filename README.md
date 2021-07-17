@@ -1,4 +1,4 @@
-# hacktofest
+# Hacktofest 2020
 event
 - 4 pull requests are needed
 - Our first project for hacktofest 
