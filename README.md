@@ -1,10 +1,10 @@
-# Hacktofest 2020
+# Hacktofest 2021
 event
 - 4 pull requests are needed
 - Our first project for hacktofest 
 - We loved to do this project by our self 
 
-**Current Version: 1.0.0 (1.10.2020)**
+**Current Version: 1.0.1 (30.10.2021)**
 
 ## Contributors :
 
@@ -13,3 +13,4 @@ event
 - [Raajesh.G](https://github.com/Raajesh-G)
 
 **Open Contributors are accepted**
+**anyone can contribute with us**
